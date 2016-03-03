@@ -1,0 +1,29 @@
+
+.bord{
+height: 500px;
+width: 500px;
+background-color: green;
+display: block;
+margin: auto;
+
+}
+.zwart
+{
+
+background-color: black;
+  width:62.5px;
+    height:62.5px;
+    
+    float:left;
+    margin:0;
+}
+
+.wit
+{
+
+background-color: white;
+  width:62.5px;
+    height:62.5px;
+   float: left;
+    margin: 0;
+}
